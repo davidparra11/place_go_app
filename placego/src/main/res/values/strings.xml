@@ -1,0 +1,52 @@
+<resources>
+    <!-- Globales -->
+    <string name="app_name">Placego</string>
+
+    <!-- Inicio sesion -->
+    <string name="login_email_o_user">Nombre de usuario</string>
+    <string name="login_pass">Contraseña</string>
+    <string name="login">INICIAR SESION</string>
+    <string name="login_forgot"><![CDATA[<a href="http://https://www.google.com.co</a>"]]></string>
+
+
+    <!-- Registrarse-->
+    <string name="register">REGISTRARSE</string>
+    <string name="register_email">Correo electronico</string>
+    <string name="register_user">Nombre de usuario</string>
+    <string name="register_pass">Contraseña</string>
+    <string name="register_user_blank">Por favor introduce tu usuario</string>
+    <string name="register_pass_blank">Por favor introduce tu contraseña</string>
+    <string name="register_email_blank">Por favor introduce tu correo electrónico</string>
+    <string name="register_user_ya_existe">El usuario ya está en uso, por favor escribe otro</string>
+    <string name="register_email_ya_existe">Este correo electrónico ya está en uso, por favor reestablece tu contraseña si la olvidaste</string>
+    <string name="register_pass_minimum">La contraseña debe tener almenos 6 caracteres</string>
+    <string name="register_email_invalido">Correo electrónico inválido</string>
+    <string name="register_user_invalido">Nombre usuario inválido, no utilices simbolos especiales</string>
+    <string name="register_unlogin">No se pudo iniciar sesión, inténtalo de nuevo más tarde</string>
+    <string name="register_message">Conectando con servidores, espere un momento</string>
+
+    <!-- Inicio de sesion -->
+    <string name="main_error_login">El usuario y contraseña no están registrados</string>
+    <string name="main_error_unknown">No se pudo iniciar sesión, inténtalo de nuevo más tarde</string>
+    <string name="main_pass_minimum">Contraseña demasiado corta</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBOJQqIdtZg9TW7eYAZHV4gTE0fBEc7R_0
+    </string>
+
+    <string name="custom_info_contents">Custom info contents</string>
+    <string name="custom_info_window">Custom info window</string>
+    <string name="default_info_window">Default info window</string>
+    <string name="clear_map">Clear</string>
+    <string name="reset_map">Reset</string>
+    <string name="flat">Flat</string>
+    <string name="rotation">Rotation:</string>
+    <string name="drag_melbourne">Drag Melbourne</string>
+    <string name="map_not_ready">Map is not ready yet</string>
+    <string name="title_activity_home2">Home2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="empty"></string>
+</resources>
